@@ -1,11 +1,9 @@
 # CSS3 Buttons
 
-This is a collection of buttons that show what is possible using CSS3 and other advanced techniques, while maintaining the simplest possible markup. These buttons look best in Chrome and Safari (especially on OSX). They look almost as good in Firefox, with all other browsers falling back to a less-styled button.
+这是一个CSS3按钮的聚合页面。
 
-These buttons are now implemented using Sass, with help from [Bourbon](http://github.com/thoughtbot/bourbon). The generated CSS for all the buttons is also available.
+框架和一些初始的按钮来自于[ubuwaits的开源代码](https://github.com/ubuwaits/css3-buttons)，然后[Yuguo](http://yuguo.us)又实现了一些dribbble上的按钮设计。
 
-If you'd like to modify the repo locally, you can start the Jekyll server and watch the Sass files with:
+ubuwaits的开源代码是基于sass和 Bourbon 库，但我用了下觉得真心非常复杂，生成的CSS代码也比较臃肿。所以去掉了sass，直接写CSS3。
 
-    rake server
 
-### View the buttons here: http://hellohappy.org/css3-buttons
