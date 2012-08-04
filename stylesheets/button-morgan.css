@@ -1,0 +1,52 @@
+/* morgan
+*******************************************************************************/
+button.morgan{
+	cursor:pointer;
+	color: #969696;
+	font: bold 12px "helvetica neue", helvetica, arial, sans-serif;
+	padding: 5px 12px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-box-shadow: 0px 1px 1px #bbb;
+	-moz-box-shadow: 0px 1px 1px #bbb;
+	text-shadow: 0px 1px 0px #ffffff;
+	border: solid #bfbfbf 1px;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#ebebeb));
+	background: -moz-linear-gradient(top, #ffffff, #ebebeb);
+}
+.morgan:hover {
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#ffffff));
+  background: -moz-linear-gradient(top, #ffffff, #ffffff)
+}
+.morgan:active {
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#dedede), to(#ececec));
+  background: -moz-linear-gradient(top, #dedede, #ececec);
+	-webkit-box-shadow:inset 0px 1px 1px #bbb;
+  	-moz-box-shadow:inset 0px 1px 1px #bbb;
+}
+/* morgan
+*******************************************************************************/
+button.morgan-round{
+	cursor:pointer;
+	color: #969696;
+	font: bold 12px "helvetica neue", helvetica, arial, sans-serif;
+	padding: 5px 12px;
+	-webkit-border-radius: 12px;
+	-moz-border-radius: 12px;
+	-webkit-box-shadow: 0px 1px 1px #bbb;
+	-moz-box-shadow: 0px 1px 1px #bbb;
+	text-shadow: 0px 1px 0px #ffffff;
+	border: solid #bfbfbf 1px;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#ebebeb));
+	background: -moz-linear-gradient(top, #ffffff, #ebebeb);
+}
+.morgan-round:hover {
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#ffffff));
+  background: -moz-linear-gradient(top, #ffffff, #ffffff)
+}
+.morgan-round:active {
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#dedede), to(#ececec));
+  background: -moz-linear-gradient(top, #dedede, #ececec);
+	-webkit-box-shadow:inset 0px 1px 1px #bbb;
+  	-moz-box-shadow:inset 0px 1px 1px #bbb;
+}

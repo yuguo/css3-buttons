@@ -1,5 +1,7 @@
 @import 'button-norm.css';  /* Clean Home button */
 @import 'nav-kit.css'; /* CSS3 UI Kit */
 @import 'button-origin.css'; /* 原始样式按钮 */
+@import 'button-push.css'; /* push按钮 */
+@import 'button-morgan.css'; /* morgan */
 @import 'page.css'; /* 页面框架样式 */
 
